@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-// - ECPv5.6.0//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-ORIGINAL-URL:https://blog.dawnoftitans.com
+X-ORIGINAL-URL:https://blog-dawnoftitans.github.io
 X-WR-CALDESC:Events for 
 BEGIN:VTIMEZONE
 TZID:UTC
@@ -20,10 +20,10 @@ DTEND;TZID=UTC:20211214T100000
 DTSTAMP:20220731T143757
 CREATED:20211122T120057Z
 LAST-MODIFIED:20211122T120057Z
-UID:1912-1639062000-1639476000@blog.dawnoftitans.com
+UID:1912-1639062000-1639476000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Solar Eclipse
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-solar-eclipse/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-solar-eclipse/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211206T150000
@@ -31,10 +31,10 @@ DTEND;TZID=UTC:20211213T100000
 DTSTAMP:20220731T143757
 CREATED:20211122T115956Z
 LAST-MODIFIED:20211122T115956Z
-UID:1910-1638802800-1639389600@blog.dawnoftitans.com
+UID:1910-1638802800-1639389600@blog-dawnoftitans.github.io
 SUMMARY:Divine Festival - The Corrupted
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/divine-festival-the-corrupted/
+URL:https://blog-dawnoftitans.github.io/event/divine-festival-the-corrupted/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211202T150000
@@ -42,10 +42,10 @@ DTEND;TZID=UTC:20211206T100000
 DTSTAMP:20220731T143757
 CREATED:20211122T115444Z
 LAST-MODIFIED:20211122T115701Z
-UID:1900-1638457200-1638784800@blog.dawnoftitans.com
+UID:1900-1638457200-1638784800@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The World-Encircling One
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-supreme-archmage/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-supreme-archmage/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211129T150000
@@ -53,10 +53,10 @@ DTEND;TZID=UTC:20211202T100000
 DTSTAMP:20220731T143757
 CREATED:20211122T115838Z
 LAST-MODIFIED:20211122T115838Z
-UID:1907-1638198000-1638439200@blog.dawnoftitans.com
+UID:1907-1638198000-1638439200@blog-dawnoftitans.github.io
 SUMMARY:Conquest - Tengu
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/conquest-tengu/
+URL:https://blog-dawnoftitans.github.io/event/conquest-tengu/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211125T150000
@@ -64,10 +64,10 @@ DTEND;TZID=UTC:20211129T100000
 DTSTAMP:20220731T143757
 CREATED:20211122T115807Z
 LAST-MODIFIED:20211122T115807Z
-UID:1905-1637852400-1638180000@blog.dawnoftitans.com
+UID:1905-1637852400-1638180000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Supreme Archmage
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-supreme-archmage-2/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-supreme-archmage-2/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T120000
@@ -75,10 +75,10 @@ DTEND;TZID=UTC:20211129T120000
 DTSTAMP:20220731T143757
 CREATED:20211122T115402Z
 LAST-MODIFIED:20211122T115402Z
-UID:1898-1637668800-1638187200@blog.dawnoftitans.com
+UID:1898-1637668800-1638187200@blog-dawnoftitans.github.io
 SUMMARY:Divine Festival - The Nexus
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/divine-festival-the-nexus/
+URL:https://blog-dawnoftitans.github.io/event/divine-festival-the-nexus/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211115T120000
@@ -86,10 +86,10 @@ DTEND;TZID=UTC:20211117T120000
 DTSTAMP:20220731T143757
 CREATED:20211101T154406Z
 LAST-MODIFIED:20211101T154406Z
-UID:1866-1636977600-1637150400@blog.dawnoftitans.com
+UID:1866-1636977600-1637150400@blog-dawnoftitans.github.io
 SUMMARY:Assault
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/assault-10/
+URL:https://blog-dawnoftitans.github.io/event/assault-10/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211111T150000
@@ -97,10 +97,10 @@ DTEND;TZID=UTC:20211115T090000
 DTSTAMP:20220731T143757
 CREATED:20211101T154255Z
 LAST-MODIFIED:20211101T154255Z
-UID:1864-1636642800-1636966800@blog.dawnoftitans.com
+UID:1864-1636642800-1636966800@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Goddess of a Thousand Works
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-goddess-of-a-thousand-works/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-goddess-of-a-thousand-works/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211108T120000
@@ -108,10 +108,10 @@ DTEND;TZID=UTC:20211111T100000
 DTSTAMP:20220731T143757
 CREATED:20211101T154157Z
 LAST-MODIFIED:20211101T154157Z
-UID:1862-1636372800-1636624800@blog.dawnoftitans.com
+UID:1862-1636372800-1636624800@blog-dawnoftitans.github.io
 SUMMARY:Theaters of War
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/theaters-of-war-9/
+URL:https://blog-dawnoftitans.github.io/event/theaters-of-war-9/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211104T150000
@@ -119,10 +119,10 @@ DTEND;TZID=UTC:20211108T090000
 DTSTAMP:20220731T143757
 CREATED:20211101T154036Z
 LAST-MODIFIED:20211101T154047Z
-UID:1860-1636038000-1636362000@blog.dawnoftitans.com
+UID:1860-1636038000-1636362000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Absolute Zero
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-absolute-zero/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-absolute-zero/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211102T120000
@@ -130,10 +130,10 @@ DTEND;TZID=UTC:20211104T120000
 DTSTAMP:20220731T143757
 CREATED:20211101T153936Z
 LAST-MODIFIED:20211101T153936Z
-UID:1858-1635854400-1636027200@blog.dawnoftitans.com
+UID:1858-1635854400-1636027200@blog-dawnoftitans.github.io
 SUMMARY:Titans Unleashed
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/titans-unleashed/
+URL:https://blog-dawnoftitans.github.io/event/titans-unleashed/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211028T150000
@@ -141,10 +141,10 @@ DTEND;TZID=UTC:20211101T150000
 DTSTAMP:20220731T143757
 CREATED:20210924T140037Z
 LAST-MODIFIED:20210924T134048Z
-UID:1804-1635433200-1635778800@blog.dawnoftitans.com
+UID:1804-1635433200-1635778800@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Vigil of Saman FINISH+
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-vigil-of-saman-finish/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-vigil-of-saman-finish/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211026T100000
@@ -152,10 +152,10 @@ DTEND;TZID=UTC:20211028T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140040Z
 LAST-MODIFIED:20210924T133917Z
-UID:1802-1635242400-1635415200@blog.dawnoftitans.com
+UID:1802-1635242400-1635415200@blog-dawnoftitans.github.io
 SUMMARY:Theaters of War
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/theaters-of-war-8/
+URL:https://blog-dawnoftitans.github.io/event/theaters-of-war-8/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211021T150000
@@ -163,10 +163,10 @@ DTEND;TZID=UTC:20211025T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140036Z
 LAST-MODIFIED:20210924T133825Z
-UID:1800-1634828400-1635156000@blog.dawnoftitans.com
+UID:1800-1634828400-1635156000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The Right Seat of Tubondo
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-the-right-seat-of-tubondo/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-the-right-seat-of-tubondo/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211018T140000
@@ -174,10 +174,10 @@ DTEND;TZID=UTC:20211021T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140011Z
 LAST-MODIFIED:20210924T133734Z
-UID:1798-1634565600-1634810400@blog.dawnoftitans.com
+UID:1798-1634565600-1634810400@blog-dawnoftitans.github.io
 SUMMARY:Solo War - Perennial Contest
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/solo-war-perennial-contest/
+URL:https://blog-dawnoftitans.github.io/event/solo-war-perennial-contest/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211014T150000
@@ -185,10 +185,10 @@ DTEND;TZID=UTC:20211018T150000
 DTSTAMP:20220731T143757
 CREATED:20210924T140043Z
 LAST-MODIFIED:20210924T133242Z
-UID:1796-1634223600-1634569200@blog.dawnoftitans.com
+UID:1796-1634223600-1634569200@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Who Walks the Golden Chain of Lukomorye
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-who-walks-the-golden-chain-of-lukomorye/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-who-walks-the-golden-chain-of-lukomorye/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211011T140000
@@ -196,10 +196,10 @@ DTEND;TZID=UTC:20211014T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140028Z
 LAST-MODIFIED:20210924T132527Z
-UID:1794-1633960800-1634205600@blog.dawnoftitans.com
+UID:1794-1633960800-1634205600@blog-dawnoftitans.github.io
 SUMMARY:Conquest - Possessor of the Fallen Slain
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/conquest-possessor-of-the-fallen-slain/
+URL:https://blog-dawnoftitans.github.io/event/conquest-possessor-of-the-fallen-slain/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211007T150000
@@ -207,10 +207,10 @@ DTEND;TZID=UTC:20211011T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140032Z
 LAST-MODIFIED:20210924T132342Z
-UID:1792-1633618800-1633946400@blog.dawnoftitans.com
+UID:1792-1633618800-1633946400@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The Arm of the Abyss FINISH+
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-the-arm-of-the-abyss-finish/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-the-arm-of-the-abyss-finish/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211005T100000
@@ -218,10 +218,10 @@ DTEND;TZID=UTC:20211007T100000
 DTSTAMP:20220731T143757
 CREATED:20210924T140058Z
 LAST-MODIFIED:20210924T132227Z
-UID:1790-1633428000-1633600800@blog.dawnoftitans.com
+UID:1790-1633428000-1633600800@blog-dawnoftitans.github.io
 SUMMARY:Assault
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/assault-9/
+URL:https://blog-dawnoftitans.github.io/event/assault-9/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210930T140000
@@ -229,10 +229,10 @@ DTEND;TZID=UTC:20211004T140000
 DTSTAMP:20220731T143757
 CREATED:20210924T140054Z
 LAST-MODIFIED:20210924T132150Z
-UID:1788-1633010400-1633356000@blog.dawnoftitans.com
+UID:1788-1633010400-1633356000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The Hope from Götaland
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-the-hope-from-gotaland/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-the-hope-from-gotaland/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210928T100000
@@ -240,10 +240,10 @@ DTEND;TZID=UTC:20210930T100000
 DTSTAMP:20220731T143757
 CREATED:20210909T120000Z
 LAST-MODIFIED:20210909T111131Z
-UID:1737-1632823200-1632996000@blog.dawnoftitans.com
+UID:1737-1632823200-1632996000@blog-dawnoftitans.github.io
 SUMMARY:Theaters of War
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/theaters-of-war-7/
+URL:https://blog-dawnoftitans.github.io/event/theaters-of-war-7/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210923T150000
@@ -251,10 +251,10 @@ DTEND;TZID=UTC:20210928T090000
 DTSTAMP:20220731T143757
 CREATED:20210909T120020Z
 LAST-MODIFIED:20210909T111042Z
-UID:1735-1632409200-1632819600@blog.dawnoftitans.com
+UID:1735-1632409200-1632819600@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Armageddon
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-armageddon/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-armageddon/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210920T150000
@@ -262,10 +262,10 @@ DTEND;TZID=UTC:20210923T150000
 DTSTAMP:20220731T143757
 CREATED:20210909T120044Z
 LAST-MODIFIED:20210909T110737Z
-UID:1733-1632150000-1632409200@blog.dawnoftitans.com
+UID:1733-1632150000-1632409200@blog-dawnoftitans.github.io
 SUMMARY:Solo War - Time and Place
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/solo-war-time-and-place/
+URL:https://blog-dawnoftitans.github.io/event/solo-war-time-and-place/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210916T150000
@@ -273,10 +273,10 @@ DTEND;TZID=UTC:20210920T150000
 DTSTAMP:20220731T143757
 CREATED:20210909T120043Z
 LAST-MODIFIED:20210909T110632Z
-UID:1730-1631804400-1632150000@blog.dawnoftitans.com
+UID:1730-1631804400-1632150000@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The Self Created One - FINISH+
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-the-self-created-one-finish/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-the-self-created-one-finish/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210914T150000
@@ -284,10 +284,10 @@ DTEND;TZID=UTC:20210916T090000
 DTSTAMP:20220731T143757
 CREATED:20210909T120034Z
 LAST-MODIFIED:20210910T101445Z
-UID:1728-1631631600-1631782800@blog.dawnoftitans.com
+UID:1728-1631631600-1631782800@blog-dawnoftitans.github.io
 SUMMARY:Conquest - Father of Heaven
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/conquest-father-of-heaven/
+URL:https://blog-dawnoftitans.github.io/event/conquest-father-of-heaven/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210909T150000
@@ -295,10 +295,10 @@ DTEND;TZID=UTC:20210914T100000
 DTSTAMP:20220731T143757
 CREATED:20210818T130051Z
 LAST-MODIFIED:20210910T095142Z
-UID:1683-1631199600-1631613600@blog.dawnoftitans.com
+UID:1683-1631199600-1631613600@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Boreal Revenant
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-boreal-revenant/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-boreal-revenant/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210906T150000
@@ -306,10 +306,10 @@ DTEND;TZID=UTC:20210909T100000
 DTSTAMP:20220731T143757
 CREATED:20210818T130000Z
 LAST-MODIFIED:20210818T122933Z
-UID:1681-1630940400-1631181600@blog.dawnoftitans.com
+UID:1681-1630940400-1631181600@blog-dawnoftitans.github.io
 SUMMARY:Solo War - Buried Garnet
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/solo-war-buried-garnet-2/
+URL:https://blog-dawnoftitans.github.io/event/solo-war-buried-garnet-2/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210902T150000
@@ -317,10 +317,10 @@ DTEND;TZID=UTC:20210906T150000
 DTSTAMP:20220731T143757
 CREATED:20210818T130056Z
 LAST-MODIFIED:20210818T121530Z
-UID:1677-1630594800-1630940400@blog.dawnoftitans.com
+UID:1677-1630594800-1630940400@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - The Thirteenth Labor
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-the-thirteenth-labor/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-the-thirteenth-labor/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210831T100000
@@ -328,10 +328,10 @@ DTEND;TZID=UTC:20210902T100000
 DTSTAMP:20220731T143757
 CREATED:20210818T130016Z
 LAST-MODIFIED:20210818T121448Z
-UID:1675-1630404000-1630576800@blog.dawnoftitans.com
+UID:1675-1630404000-1630576800@blog-dawnoftitans.github.io
 SUMMARY:Assault
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/assault-8/
+URL:https://blog-dawnoftitans.github.io/event/assault-8/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20210826T150000
@@ -339,9 +339,9 @@ DTEND;TZID=UTC:20210830T150000
 DTSTAMP:20220731T143757
 CREATED:20210818T130006Z
 LAST-MODIFIED:20210818T121407Z
-UID:1672-1629990000-1630335600@blog.dawnoftitans.com
+UID:1672-1629990000-1630335600@blog-dawnoftitans.github.io
 SUMMARY:Alliance War - Hound of Hades - FINISH+
 DESCRIPTION:
-URL:https://blog.dawnoftitans.com/event/alliance-war-hound-of-hades-finish/
+URL:https://blog-dawnoftitans.github.io/event/alliance-war-hound-of-hades-finish/
 END:VEVENT
 END:VCALENDAR
