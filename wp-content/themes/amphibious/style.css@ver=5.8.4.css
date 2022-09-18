@@ -4373,3 +4373,7 @@ img[id*="botd"] {
   }
 }
 
+.widget_archive, .widget_search {
+  display: none;
+}
+
